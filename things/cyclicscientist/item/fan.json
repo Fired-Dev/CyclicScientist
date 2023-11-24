@@ -1,0 +1,8 @@
+{
+  "type": "plain",
+  "max_stack_size": 16,
+  "group": "cyclicscientist:cyclicscientist",
+  "lore": [
+    {"text": "Blow, blow, blow!", "italic": true, "color": "gray" }
+  ]
+}

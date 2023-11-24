@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "sss",
+    "sqs",
+    "hhh"
+  ],
+  "key": {
+    "s": {
+      "tag": "forge:storage_blocks/cobblestone"
+    },
+    "h": {
+      "item": "minecraft:observer"
+    },
+    "q": {
+      "item": "cyclic:gem_amber"
+    }
+  },
+  "result": {
+    "item": "cyclic:structure"
+  }
+}

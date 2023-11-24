@@ -1,0 +1,29 @@
+modLoader="lowcodefml"
+loaderVersion="[40,)"
+license="GPL-3.0-or-later"
+[[mods]]
+    modId="cyclicscientist"
+    version="0.0.1"
+    displayName="Cyclic·Science"
+    description='''
+    Made cyclic more and more science.
+    '''
+[[dependencies.cyclicscientist]]
+    modId="forge"
+    mandatory=true
+    versionRange="[40.1.40,)"
+    ordering="NONE"
+    side="BOTH"
+[[dependencies.cyclicscientist]]
+    modId="cyclic"
+    mandatory=true
+    versionRange="[1.6.8,)"
+    ordering="NONE"
+    side="BOTH"
+[[dependencies.cyclicscientist]]
+    modId="jsonthings"
+    mandatory=true
+    versionRange="[0.4.2,)"
+    ordering="NONE"
+    side="BOTH"
+    

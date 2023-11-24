@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "g g",
+    "fsf",
+    "gag"
+  ],
+  "key": {
+    "s": {
+      "item": "minecraft:cobweb"
+    },
+    "g": {
+      "tag": "minecraft:wool"
+    },
+    "f": {
+      "tag": "forge:feathers"
+    },
+    "a": {
+      "item": "cyclic:gem_amber"
+    }
+  },
+  "result": {
+    "item": "cyclic:charm_longfall"
+  }
+}

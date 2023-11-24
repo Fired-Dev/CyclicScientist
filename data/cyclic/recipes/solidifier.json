@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "r r",
+    "g g",
+    "qqq"
+  ],
+  "key": {
+    "g": {
+      "tag": "forge:glass/colorless"
+    },
+    "r": {
+      "tag": "forge:storage_blocks/lapis"
+    },
+    "q": {
+      "tag": "forge:storage_blocks/cobblestone"
+    }
+  },
+  "result": {
+    "item": "cyclic:solidifier"
+  }
+}

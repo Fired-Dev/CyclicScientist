@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "   ",
+    "sbs",
+    "mrm"
+  ],
+  "key": {
+    "s": {
+      "tag": "forge:string"
+    },
+    "b": {
+      "tag": "forge:tools/bows"
+    },
+    "r": {
+      "tag": "forge:dusts/redstone"
+    },
+    "m": {
+      "tag": "forge:storage_blocks/cobblestone"
+    }
+  },
+  "result": {
+    "item": "cyclic:rotator",
+    "count": 1
+  }
+}
